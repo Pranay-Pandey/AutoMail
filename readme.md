@@ -28,7 +28,7 @@ After sending the Message the header displays total successful emails and a succ
  
  <b><h4>Cloning the Repo in your local machine</h4></b>
   <ul>
-  <li> Clone this repo<code>git clone git@github.com:Pranay-Pandey/AutoMail.git</code></li>
+  <li> Clone this repo<code>git clone https://github.com/Pranay-Pandey/AutoMail.git</code></li>
   <li> Go inside the repo<code>cd AutoMail</code> </li>
   <li> You can create a virtual environment<code>python3 -m venv .env</code> </li>
   <li> Activate this environment with <code> source .env/bin/activate</code> </li>
